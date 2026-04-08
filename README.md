@@ -46,7 +46,9 @@ streamlit run app.py
 - "What percentage of orders were cancelled last year?"
 - "Which regions have the highest average order value?"
 
----
+
+## Live Demo
+Watch it in action: https://www.loom.com/share/8566a0d4d3074f0daedfb4175169e786
 
 ## Database schema
 
